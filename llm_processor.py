@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Configure Gemini
-GEMINI_API_KEY = "AIzaSyAyCdk61jjV8Hn2_1Uq4434rJs7d_fHS_c"
+GEMINI_API_KEY = "Your API Key here"
 genai.configure(api_key=GEMINI_API_KEY)
 
 class LLMProcessor:
