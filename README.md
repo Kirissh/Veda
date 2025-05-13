@@ -53,4 +53,5 @@ streamlit run app.py
 
 ## Note
 
-The application runs entirely locally, with no cloud dependencies. Voice recognition is handled by OpenAI's Whisper model running on your machine. 
+The application runs entirely locally, with no cloud dependencies. Voice recognition is handled by OpenAI's Whisper model running on your machine, (also working on fixing 
+The issues regarding speech recognition actively. 
