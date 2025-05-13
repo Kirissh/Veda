@@ -5,7 +5,7 @@ A desktop application for performing Exploratory Data Analysis (EDA) using natur
 ## Features
 
 - Upload and analyze CSV datasets
-- Voice command recognition using OpenAI Whisper
+- Voice command recognition using OpenAI Whisper (Currently using VOSK libraries to analyse speech)
 - Natural language processing of analysis commands
 - Interactive visualizations and statistical analysis
 - Clean, minimal GUI built with Streamlit
