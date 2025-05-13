@@ -1,4 +1,4 @@
-# VEDA an EDA Assistant
+# VEDA - Exploratory Data Analysis Assistant
 
 A desktop application for performing Exploratory Data Analysis (EDA) using natural language commands.
 
