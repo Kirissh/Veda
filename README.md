@@ -1,4 +1,4 @@
-# Voice EDA Assistant
+# EDA Assistant
 
 A voice-controlled desktop application for performing Exploratory Data Analysis (EDA) using natural language commands.
 
